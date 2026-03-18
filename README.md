@@ -108,13 +108,18 @@ Os resultados foram confirmados por meio de uma tabela dinâmica, assegurando a 
 
 ## 🚀 Como executar o projeto
 
-Os arquivos deste projeto estão disponibilizados na pasta entregaveis/ deste repositório, contendo:
+Os arquivos deste projeto estão disponibilizados na pasta `entregaveis/` deste repositório, contendo:
 
-📊 Planilha Excel com os dados brutos, dados tratados e os insights que respondem às perguntas de negócio
-🔗 Link para o dashboard interativo desenvolvido no Power BI
+- 📊 Planilha Excel com os dados brutos, dados tratados e os insights que respondem às perguntas de negócio
+- 🔗 Arquivo .pbix do dashboard (disponível no Google Drive via link na planilha). **Necessário ter o Power BI Desktop instalado para abrir.**
 
-Para visualizar a planilha, basta realizar o download do arquivo .xlsx e abri-lo no Microsoft Excel ou Google Sheets. O dashboard do Power BI pode ser acessado diretamente pelo link disponível na planilha, sem necessidade de instalação.
-Em caso de dúvidas ou sugestões, sinta-se à vontade para entrar em contato por meio da seção Issues deste repositório ou pelos canais disponíveis no meu perfil do GitHub.
+Para visualizar a planilha, basta realizar o download do arquivo `.xlsx` e abri-lo no Microsoft Excel ou Google Sheets.
+
+O dashboard do Power BI pode ser acessado diretamente pelo link abaixo, sem necessidade de instalação:
+
+👉 [Clique aqui para acessar o dashboard interativo](https://app.powerbi.com/view?r=eyJrIjoiOTE3YjI5NGItYTg4Yi00ZWI1LWI5MWEtZWUxNDk3ZDYwOWE2IiwidCI6IjQ5Nzc0MTY5LTBmZWMtNDdmNy04YTlhLTE0YzIzMGI1MTIyMiJ9)
+
+Em caso de dúvidas ou sugestões, sinta-se à vontade para entrar em contato por meio da seção **Issues** deste repositório ou pelos canais disponíveis no meu perfil do GitHub.
 
 ## 🤝 Contato
 
